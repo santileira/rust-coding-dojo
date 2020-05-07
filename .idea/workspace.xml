@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52090da6-f283-4d4b-859d-d4fda7b0aa73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get-started/hello-rust/README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,23 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/get-started/ownership/src/main.rs">
+        <entry file="file://$PROJECT_DIR$/get-started/objects/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-              <folding>
-                <element signature="e#2694#2695#0" expanded="true" />
-                <element signature="e#2708#2709#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get-started/functions/src/main.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -60,6 +45,7 @@
         <option value="$PROJECT_DIR$/get-started/hello-rust/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/get-started/ownership/src/main.rs" />
+        <option value="$PROJECT_DIR$/get-started/objects/src/main.rs" />
       </list>
     </option>
   </component>
@@ -76,7 +62,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,26 +78,13 @@
               <item name="rust-coding-dojo" type="b2602c69:ProjectViewProjectNode" />
               <item name="rust-coding-dojo" type="462c0819:PsiDirectoryNode" />
               <item name="get-started" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rust-coding-dojo" type="b2602c69:ProjectViewProjectNode" />
               <item name="rust-coding-dojo" type="462c0819:PsiDirectoryNode" />
               <item name="get-started" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-coding-dojo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-coding-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="get-started" type="462c0819:PsiDirectoryNode" />
-              <item name="ownership" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-coding-dojo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-coding-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="get-started" type="462c0819:PsiDirectoryNode" />
-              <item name="ownership" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -120,6 +92,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,16 +165,18 @@
       <workItem from="1588183715894" duration="3000" />
       <workItem from="1588186382314" duration="279000" />
       <workItem from="1588253441778" duration="305000" />
+      <workItem from="1588275089641" duration="1878000" />
+      <workItem from="1588792476846" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18350000" />
+    <option name="totallyTimeSpent" value="20254000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1631" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1631" height="1027" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29137823" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29893014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -315,6 +290,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/get-started/functions/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/get-started/ownership/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -326,10 +308,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get-started/functions/src/main.rs">
+    <entry file="file://$PROJECT_DIR$/get-started/objects/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
